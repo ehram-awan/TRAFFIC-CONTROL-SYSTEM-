@@ -21,7 +21,7 @@
 ## Installation
 
 1. Clone the repository:  
-   git clone https://github.com/yourusername/smarttraffic.git
+   git clone https://github.com/ehram-awan/smarttraffic.git
 
 Navigate to the project directory:
 
